@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Linda Putriani**.<br>
 
-Saya seorang **Mahasiswa Aktif** di Universitas Islam Indrgiri Prodi **Sistem Informasi**.<br>
+Saya seorang **Mahasiswa Aktif** di **Universitas Islam Indrgiri** Prodi **Sistem Informasi**.<br>
 
 Saya lahir di **Rotan Semeluar, 09 Oktober 2007**.<br>
 
